@@ -1,0 +1,8 @@
+{
+  "type": "client-typescript",
+  "require": {
+    "sdkfabric/deepseek": {
+      "target": "./src"
+    }
+  }
+}
